@@ -1,10 +1,11 @@
-import { Button, Header } from "ui";
+import { Header } from "ui";
+import { Button } from "beton";
 
 export default function Page() {
   return (
     <>
       <Header text="Web" />
-      <Button />
+      <Button type="filled">Hesdfdllodgfgss</Button>
     </>
   );
 }
