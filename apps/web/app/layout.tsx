@@ -1,3 +1,4 @@
+import 'beton/dist/index.css'
 export default function RootLayout({
   children,
 }: {
